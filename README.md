@@ -198,4 +198,4 @@ uint16_t CRC16_CCITT(const uint8_t *data, uint16_t length) {
 
 ---
 
-> **Hardware repo**: https://github.com/ORG/REPO-HW  
+> **Hardware repo**: [https://github.com/ORG/REPO-HW  ](https://github.com/jmh8231-Dev/hyperionsat-hw-2025)
