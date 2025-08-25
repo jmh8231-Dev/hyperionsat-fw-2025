@@ -198,9 +198,4 @@ uint16_t CRC16_CCITT(const uint8_t *data, uint16_t length) {
 
 ---
 
-## 10) 라이선스 / 크레딧
-
-- 라이선스: 프로젝트 루트의 `LICENSE` 참조(없을 경우 AS‑IS).  
-- Contributors: HyperionSAT 팀 일동.
-
-_문서 버전: 2025-08-24_
+> **Hardware repo**: https://github.com/ORG/REPO-HW  
